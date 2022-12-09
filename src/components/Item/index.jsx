@@ -1,7 +1,7 @@
-import "./item.css"
+import "./item.css";
 
 import React from "react";
-import redbull from "../../img/redbull.png";
+
 
 
 const Item = ({info}) => {
