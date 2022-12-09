@@ -1,5 +1,6 @@
 .counter{
     width: fit-content;
+    border: 1px solid black;
     background-color: gold;
     margin: auto;
     padding: 1rem;
