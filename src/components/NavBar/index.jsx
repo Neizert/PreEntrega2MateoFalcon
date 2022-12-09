@@ -6,7 +6,7 @@ const NavBar = () => {
         <div className="container">
             <nav className="nav">
              <div className="nav__brand">
-                 <a className="nav__link" >MiMarca</a>
+                 <a className="nav__link" >Kiosko Matu</a>
              </div>
              <ul className="nav__list">
                 <li>
